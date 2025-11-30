@@ -1,0 +1,3 @@
+FOOD|Sate Ayam|20000.000000|Makanan|Rumahan
+DRINK|Kopi|5000.000000|Minuman|Panas
+DRINK|Es Teh|6000.000000|Minuman|Dingin

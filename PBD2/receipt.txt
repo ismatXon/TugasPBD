@@ -1,0 +1,9 @@
+Struk Pesanan
+============================
+Soto                 Rp 25000.00 (Makanan)
+----------------------------
+Subtotal          : Rp 25000.00
+Diskon            : Rp     0.00
+Total Bayar       : Rp 25000.00
+============================
+Terima kasih!
